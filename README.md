@@ -3,7 +3,7 @@
 <p> <strong>| Tecnologias Usadas</strong></p>
 <li> Python
 <li> Pandas
-<li> MatplorLib
+<li> MatplotLib
 <li> Seaborn
 
 <h2> O que é o estado de Churn?</h2>
